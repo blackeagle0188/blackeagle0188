@@ -19,8 +19,8 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchainGuru1018](https://t.me/blockchainGuru1018)
-- 📝 Email : djangodeveloper961018@gmail.com
+- 💬 Telegram : [@blackeagle1115](https://t.me/blackeagle1115)
+- 📝 Email : blackeagle0188@gmail.com
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -59,6 +59,6 @@ I have developed many successful sites so far with mentioned skills.
 </table>
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=blockchainGuru1018&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainGuru1018&layout=compact&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle0188&layout=compact&theme=merko&count_private=true" />
 
-⭐️ From [blockchainGuru1018](https://github.com/blockchainGuru1018)
+⭐️ From [Blackeagle0188](https://github.com/Blackeagle0188)
