@@ -60,5 +60,4 @@ I have developed many successful sites so far with mentioned skills.
   </tr>
 </table>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=blackeagle0188&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle0188&layout=compact&theme=merko&count_private=true" />
+
