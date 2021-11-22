@@ -64,7 +64,7 @@ I have developed many successful sites so far with mentioned skills.
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle0188&layout=compact&theme=merko&count_private=true" />
 
 <div>
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchainGuru1018.blockchainGuru1018" />
-  <img align="right" src="https://img.shields.io/github/followers/blockchainGuru1018?label=Follow&style=social" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blackeagle0188.blackeagle0188" />
+  <img align="right" src="https://img.shields.io/github/followers/blackeagle0188?label=Follow&style=social" />
   <img height="150px" />
 </div>
