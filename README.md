@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 
 **Connect with me:**
 - 💬 Telegram : [@blackeagle1115](https://t.me/blackeagle1115)
-- 💬 Skype : [live:.cid.3bafe34211fa7ac8(https://join.skype.com/invite/wfWqzX5ZUldC)
+- 💬 Skype : [live:.cid.3bafe34211fa7ac8(https://join.skype.com/invite/wfWqzX5ZUldC)]
 - 📱  Mobile : +1 (518) 261-0468
 - 📝 Email : blackeagle0188@gmail.com
 
