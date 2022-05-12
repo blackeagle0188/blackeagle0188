@@ -21,7 +21,7 @@ I have developed many successful sites so far with mentioned skills.
 **Connect with me:**
 - 💬 Telegram : [@blackeagle1115](https://t.me/blackeagle1115)
 - 💬 Skype : [live:.cid.88e52096f20bbc67](https://join.skype.com/invite/UKGWAL8d3DJx)
-- 📱  Mobile : +1 (707) 814-4108
+- 📱  Mobile : +1 (518) 261-0468
 - 📝 Email : blackeagle0188@gmail.com
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
